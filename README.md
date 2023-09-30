@@ -7,6 +7,8 @@ Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an 
 - **Tentative Date:** Thursday, November 9th (During Reading Week)
 - **Location:** Bahen Centre for Information Technology, University of Toronto
 - **Mode:** Hybrid (Both Online and In-Person)
+- **Registration:** We will be releasing a form very soon to register.
+
 
 ## Schedule
 

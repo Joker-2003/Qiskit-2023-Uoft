@@ -38,3 +38,9 @@ Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an 
 Whether you're attending in person at the Bahen Centre or joining us online, the UTQC Qiskit Fall Fest promises to be an event you won't want to miss. Get ready to explore the quantum world, expand your horizons in the field of quantum computing, and enjoy complimentary snacks throughout the day.
 
 For more information and updates, stay tuned to our official event channels. We will be positing a discord link soon. We look forward to seeing you there!
+
+
+![UTQC Logo]()
+
+
+

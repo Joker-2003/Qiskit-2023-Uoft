@@ -40,7 +40,7 @@ Whether you're attending in person at the Bahen Centre or joining us online, the
 For more information and updates, stay tuned to our official event channels. We will be positing a discord link soon. We look forward to seeing you there!
 
 
-![UTQC Logo]()
+![UTQC Logo](./logo.svg)
 
 
 

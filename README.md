@@ -7,8 +7,7 @@ Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an 
 - **Tentative Date:** Thursday, November 9th (During Reading Week)
 - **Location:** Bahen Centre for Information Technology, University of Toronto
 - **Mode:** Hybrid (Both Online and In-Person)
-- **Registration:** We will be releasing a form very soon to register.
-
+- **Registration:** https://forms.gle/51drYAdc6gTrjXENA
 
 ## Schedule
 
@@ -21,7 +20,7 @@ Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an 
 ### 12:00 PM - 1:00 PM: Quantum Talk #1
 - Dive deeper into the world of quantum computing with our first captivating talk of the day.
 
-### 1:10 PM - 2:00 PM: Break
+### 1:10 PM - 2:00 PM: Break (Free Lunch)
 
 
 ### 2:10 PM - 3:00 PM: Quantum Talk #2

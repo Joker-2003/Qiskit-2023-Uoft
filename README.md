@@ -8,6 +8,8 @@ Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an 
 - **Location:** TBA
 - **Mode:** Hybrid (Both Online and In-Person)
 - **Registration:** https://forms.gle/51drYAdc6gTrjXENA
+- **Discord:** https://discord.gg/yk9n6cbm
+
 
 ## Schedule
 

@@ -8,7 +8,7 @@ Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an 
 - **Location:** Bahen centre of I.T.
 - **Mode:** Hybrid (Both Online and In-Person)
 - **Registration:** https://forms.gle/51drYAdc6gTrjXENA
-- **Discord:** https://discord.gg/yk9n6cbm
+- **Discord:**[ https://discord.gg/yk9n6cbm](https://discord.gg/uVGnXZNA)
 
 
 ## Schedule

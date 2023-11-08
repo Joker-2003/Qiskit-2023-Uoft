@@ -1,7 +1,6 @@
 # UTQC Qiskit Fall Fest 2023
 
-<img src='img/agnostiq.png' width='250'>
-<img src='img/cqiqc.png' width='250'>
+|<img src='img/agnostiq.png' width='250'>|<img src='img/cqiqc.png' width='250'>
 
 Welcome to the University of Toronto's Quantum Qiskit Fall Fest! Join us for an exciting day filled with informative talks, engaging workshops, thrilling challenges, and free snacks, all centered around the fascinating world of Quantum Computing and IBM's open-source development tool, Qiskit. Whether you're a seasoned quantum enthusiast or just curious about this emerging field, there's something for everyone at this event.
 
